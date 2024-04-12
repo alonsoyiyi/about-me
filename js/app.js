@@ -56,3 +56,4 @@ function game() {
 
         alert('Gracias por jugar conmigo :3 espero que ahora me conozcas mejor');
     }
+    game();
