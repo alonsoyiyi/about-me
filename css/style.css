@@ -11,7 +11,7 @@ h1{
     text-align: center;
    color: antiquewhite;
    text-shadow: 0 0 5px gold, 0 0 5px gold, 0 0 5px gold;
-   margin: 20px;
+   margin: 100px;
 }
 .sticky-lateral {
     position:-webkit-sticky;
@@ -20,6 +20,7 @@ h1{
     background-color: #f31d1d;
     width: 80px;
     height:80px;
+    z-index: 1000; 
 }
 .sticky-lateral img {
     max-width: 70px; 
@@ -29,28 +30,29 @@ h1{
 #hero_p p {
     color: beige;
     text-align: center;
-    margin: 20px;
+    margin: 100px;
+    margin-top: 40px;
 }
 #educacion h2,
 #educacion p
 {
     color:azure;
     text-align: center;
-    margin: 20px;
+    margin: 100px;
 }
 #experiencia h2,
 #experiencia p
 {
     color: rgb(171, 245, 255);
     text-align: center;
-    margin: 20px;
+    margin: 100px;
 }
 #objetivos h2,
 #objetivos p
 {
     color: rgb(251, 200, 166);
     text-align: center;
-    margin: 20px;
+    margin:100px;
 }
 hr {
     margin: 0 40px;
