@@ -8,11 +8,39 @@ body {
     
 }
 h1{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 22.5vw;
-    height: 16vh;
-    z-index: 1;
-    color: aliceblue;
+    text-align: center;
+   color: antiquewhite;
+   text-shadow: 0 0 5px gold, 0 0 5px gold, 0 0 5px gold;
+   margin: 20px;
+}
+#hero_p p {
+    color: beige;
+    text-align: center;
+    margin: 20px;
+}
+#educacion h2,
+#educacion p
+{
+    color:azure;
+    text-align: center;
+    margin: 20px;
+}
+#experiencia h2,
+#experiencia p
+{
+    color: rgb(171, 245, 255);
+    text-align: center;
+    margin: 20px;
+}
+#objetivos h2,
+#objetivos p
+{
+    color: rgb(251, 200, 166);
+    text-align: center;
+    margin: 20px;
+}
+hr {
+    margin: 0 40px;
+    border-top: none;
+    border-bottom: 4px yellow solid;
 }
