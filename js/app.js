@@ -18,7 +18,7 @@ function game() {
          //console.log('Pues muy mal, me encanta porque soy un romántico empedernido :3 asi que fallaste!!');
     }
 
-    let question2 = prompt ('Es verdad que soy un amante de las frituras como las papitas, chicharrones y cosas crotantes?');
+    let question2 = prompt ('Es verdad que soy un amante de las frituras como las papitas, chicharrones y cosas crocantes?');
     if (question2.toUpperCase() === 'Y'){
         alert('Obviamente que si :D esas cosas son el manjar de los dioses, porque todo lo rico hará daño? T_T');
         //console.log('Obviamente que si :D esas cosas son el manjar de los dioses, porque todo lo rico hará daño? T_T');
