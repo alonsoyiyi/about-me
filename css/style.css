@@ -60,3 +60,17 @@ hr {
     border-top: none;
     border-bottom: 4px yellow solid;
 }
+#topgames h2,
+#topgames ol
+{
+    color: rgb(171, 245, 255);
+    margin: 100px;
+}
+#topgames h2{
+    text-align: center;
+}
+#topgames ol{
+    width: 15%;
+    margin: 0px auto;
+    text-align: left;
+}
