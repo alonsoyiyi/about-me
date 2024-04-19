@@ -32,14 +32,7 @@ Cerca de 4 horas
 
 Sabía que era una actividad retadora, asi que estaba calculando alrededor de 3 a 4 horas.
 
-<<<<<<< HEAD
 #### LAB 4
 
 * Fui Driver en : <https://github.com/Gmoralesmuller/aboutMe/pull/1>
 * Fui Navigator en : <https://github.com/alonsoyiyi/about-me/pull/2>
-=======
-## Laboratorio 04
-
-Driver: Georgina Morales
-Navigator: Angel Paz
->>>>>>> cd136bb2fbc44e420313b0f59617b1b79dd2a61d
