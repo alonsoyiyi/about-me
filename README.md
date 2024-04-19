@@ -31,3 +31,8 @@ Cerca de 4 horas
 #### Y, antes de que comenzaras, ¿cuánto tiempo creiste que te tomaría terminar esta tarea?
 
 Sabía que era una actividad retadora, asi que estaba calculando alrededor de 3 a 4 horas.
+
+#### LAB 4
+
+* Fui Driver en : <https://github.com/Gmoralesmuller/aboutMe/pull/1>
+* Fui Navigator en : <https://github.com/alonsoyiyi/about-me/pull/2>
