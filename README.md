@@ -31,3 +31,8 @@ Cerca de 4 horas
 #### Y, antes de que comenzaras, ¿cuánto tiempo creiste que te tomaría terminar esta tarea?
 
 Sabía que era una actividad retadora, asi que estaba calculando alrededor de 3 a 4 horas.
+
+## Laboratorio 04
+
+Driver: Georgina Morales
+Navigator: Angel Paz
