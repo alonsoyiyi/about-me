@@ -3,17 +3,18 @@
 }
 
 body {
-    background-color: black;
+    background-color: #030637;
     font-family: sans-serif;
     
 }
 h1{
     text-align: center;
-   color: antiquewhite;
-   text-shadow: 0 0 5px gold, 0 0 5px gold, 0 0 5px gold;
-   margin: 100px;
+    color: #EEE4B1;
+    text-shadow: 0 0 5px gold, 0 0 5px gold, 0 0 5px gold;
+    margin: 100px;
    
 }
+
 .sticky-lateral {
     position:-webkit-sticky;
     position: sticky;
@@ -56,6 +57,7 @@ h1{
     width: 15%;
     margin: 0px auto;
     text-align: left;
+    padding-bottom: 60px;
 }
 #objetivos h2,
 #objetivos p
@@ -76,10 +78,17 @@ hr {
     margin: 100px;
 }
 #topgames h2{
-    text-align: center;
+    text-align: center;   
+}
+#educacion h2,
+#experiencia h2,
+#objetivos h2,
+#topgames h2{
+    color: #A6FF96;
 }
 #topgames ol{
     width: 15%;
     margin: 0px auto;
     text-align: left;
+    padding-bottom: 50px;
 }
