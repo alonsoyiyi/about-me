@@ -36,3 +36,9 @@ Sabía que era una actividad retadora, asi que estaba calculando alrededor de 3 
 
 * Fui Driver en : <https://github.com/Gmoralesmuller/aboutMe/pull/1>
 * Fui Navigator en : <https://github.com/alonsoyiyi/about-me/pull/2>
+
+#### LAB 5
+
+* Puntuación de Accesibilidad de Lighthouse
+
+![Imagen de Lighthouse](./img/captura%20de%20about%20me.png)
