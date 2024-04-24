@@ -78,7 +78,7 @@ function game() {
                     alert('Tengo 59 juegos en mi biblioteca de Steam :DD');
             }
         }
-    } 
+    }
 
     function question7() {
         let paisfav = ['japon', 'canada', 'suiza'];
@@ -107,7 +107,7 @@ function game() {
             alert('¡Se acabaron los intentos :v! Mis países favoritos son: japon, canada y suiza');
         }
     }
-    
+
         question1();
         question2();
         question3();
