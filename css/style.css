@@ -90,5 +90,19 @@ hr {
     width: 15%;
     margin: 0px auto;
     text-align: left;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
+}
+.bottom {
+    position: fixed;
+    background-color:greenyellow;
+    color: darkblue; 
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 25px;
+}
+
+.bottom:hover{
+    background-color:darkblue;
+    color: greenyellow; 
 }
